@@ -49,7 +49,7 @@ LG intends to deploy a single smart contract that will allow holders to hold eit
 
 ## VERSION 1 DRAFT PROJECT TIMELINE
 
-- Miami Bitcoin Convention seed investor attractor event. [$6000]
+- Ethereum Convention booth, social, travel. [$6000]
 - Develop prototype 0 base ERC1155_ERC20_Votes contract in Solidity on Rinkeby. [$6000]
 - Develop prototype 0 LG contract based on ERC1155_ERC20_Votes and deploy on Rinkeby. [$3000]
 - Develop prototype 0 LG Governance contract and deploy on Rinkeby. [$3000]
@@ -84,4 +84,4 @@ Seeking $262,600 in funding via Juicebox.money
 
 ## Why HODL?
 
-McGov is the start of an on-chain governance project that will be governed by, you guessed it, on-chain governance.  This should thrill the Y-combinator heart in many a fan.  Direct intrinsic value that has the possibility to help a many future DAO projects wherever Solidity is found and then wherever the community decides to take it next.
+McGov is the first project to enable multi-class on-chain governance and its future development will be governed by multi-class on-chain governance.  Initial juicebox investors will be given more weight through a founder class.  The UI will introduce a fee-based factory contract and fees will be distributed among holders.
